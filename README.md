@@ -37,7 +37,7 @@ This project is a front-end clone of the popular e-commerce website **Myntra**, 
 
 ## Live Demo
 
-**Live Website:** [Click here to view the live site](https://smoon123-ai.github.io/myntra-clone/)
+**Live Website:** [Click here to view the live site](https://smoon123-ai.github.io/Myntra-Clone/)
 
 ---
 
